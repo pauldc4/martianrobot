@@ -1,0 +1,14 @@
+C:\Projects\learning\MartianRobot\MartianRobotConApp\bin\Debug\net8.0\MartianRobotConApp.exe
+C:\Projects\learning\MartianRobot\MartianRobotConApp\bin\Debug\net8.0\MartianRobotConApp.deps.json
+C:\Projects\learning\MartianRobot\MartianRobotConApp\bin\Debug\net8.0\MartianRobotConApp.runtimeconfig.json
+C:\Projects\learning\MartianRobot\MartianRobotConApp\bin\Debug\net8.0\MartianRobotConApp.dll
+C:\Projects\learning\MartianRobot\MartianRobotConApp\bin\Debug\net8.0\MartianRobotConApp.pdb
+C:\Projects\learning\MartianRobot\MartianRobotConApp\obj\Debug\net8.0\MartianRobotConApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\learning\MartianRobot\MartianRobotConApp\obj\Debug\net8.0\MartianRobotConApp.AssemblyInfoInputs.cache
+C:\Projects\learning\MartianRobot\MartianRobotConApp\obj\Debug\net8.0\MartianRobotConApp.AssemblyInfo.cs
+C:\Projects\learning\MartianRobot\MartianRobotConApp\obj\Debug\net8.0\MartianRobotConApp.csproj.CoreCompileInputs.cache
+C:\Projects\learning\MartianRobot\MartianRobotConApp\obj\Debug\net8.0\MartianRobotConApp.dll
+C:\Projects\learning\MartianRobot\MartianRobotConApp\obj\Debug\net8.0\refint\MartianRobotConApp.dll
+C:\Projects\learning\MartianRobot\MartianRobotConApp\obj\Debug\net8.0\MartianRobotConApp.pdb
+C:\Projects\learning\MartianRobot\MartianRobotConApp\obj\Debug\net8.0\MartianRobotConApp.genruntimeconfig.cache
+C:\Projects\learning\MartianRobot\MartianRobotConApp\obj\Debug\net8.0\ref\MartianRobotConApp.dll
